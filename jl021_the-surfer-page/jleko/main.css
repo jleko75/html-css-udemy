@@ -1,0 +1,27 @@
+html {
+    background-color: #00539f;
+}
+body {
+    background-color: #00C957;
+    width: 60%;
+    margin: 0 auto;
+    border: 5px solid black;
+}
+img {
+    border: ridge 10px orange;
+    border-radius: 80%;
+    display: block;
+    margin: 0 auto;
+}
+p, h1 {
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+}
+#primary {
+    color: #0266C8; 
+}
+
+#secondary {
+    color: #F90101; 
+}

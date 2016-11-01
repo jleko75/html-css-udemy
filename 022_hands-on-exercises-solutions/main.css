@@ -1,0 +1,50 @@
+#third {
+    color: red;
+}
+
+.temp {
+    color: red;
+}
+
+[target=_blank] {
+    border: 1px solid black;
+}
+a {
+    display: block;
+    font-size: 50px;
+}
+a:link {
+    color: blue;
+}
+a:visited {
+    color: red;
+}
+a:hover {
+    color: pink;
+}
+a:active {
+    color: limegreen;
+}
+/*
+p::first-letter {
+    font-size: 50px;
+    color: red
+}
+p::first-line {
+    font-size: 20px;
+    color: red
+}
+*/
+
+/*
+div p {
+    color: red;
+}
+div ~ p {
+    color: green;
+}
+*/
+
+div + p {
+    color: green;
+}
